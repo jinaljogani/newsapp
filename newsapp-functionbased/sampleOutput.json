@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "NFL Week 13 odds, predictions, expert picks: Best bets, teasers, survivor picks, where to watch every game - CBS Sports",
+            "description": "CBSSports.com and SportsLine break down every single NFL game in Week 13",
+            "url": "https://www.cbssports.com/nfl/news/nfl-week-13-odds-predictions-expert-picks-best-bets-teasers-survivor-picks-where-to-watch-every-game/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/11/22/c05bb427-114d-43db-bba9-b0017543ada0/thumbnail/1200x675/19fa8a72c7b302dcd2fd38e9b485f196/getty-lamar-jackson-ravens.jpg",
+            "publishedAt": "2024-12-01T13:00:36Z",
+            "content": "Week 13 in the NFL is well underway with four games already under our belts over the Thanksgiving and Black Friday holiday. Now, it's time to heat up the leftovers and gear up for a jam-packed Sunday… [+11570 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Athlon Sports"
+            },
+            "author": "Matt Wadleigh",
+            "title": "Joel Klatt Reveals College Football Playoff Predictions After Chaotic Week 14 - Athlon Sports",
+            "description": "Joel Klatt gave his College Football Playoff predictions after Week 14 came to a conclusion.",
+            "url": "https://athlonsports.com/college-football/joel-klatt-college-football-playoff-predictions-chaotic-week-14",
+            "urlToImage": "https://athlonsports.com/.image/t_share/MjEwNTQxNjUzOTgxNjY5MjAx/joel-klatt.png",
+            "publishedAt": "2024-12-01T10:00:00Z",
+            "content": "Week 14 of the college football season gave fans everything they could've possibly hoped for. \r\nThere were big upsets, massive brawls, and some stunning results in Rivalry Week. As such, the next bat… [+1500 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Nick Bromberg",
+            "title": "No. 3 Texas holds off No. 20 Texas A&M to clinch spot in SEC title game against No. 7 Georgia - Yahoo Sports",
+            "description": "The Bulldogs handed the Longhorns their only regular season loss.",
+            "url": "https://sports.yahoo.com/no-3-texas-holds-off-no-20-texas-am-to-clinch-spot-in-sec-title-game-against-no-7-georgia-041340234.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ji1wMfP8tLuHCbiwcyTxvg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTA-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/091aa420-af9a-11ef-8ff6-835fb54c710b",
+            "publishedAt": "2024-12-01T06:41:00Z",
+            "content": "Jaydon Blue made a TD grab in the first half of Texas' win over Texas A&amp;M. (Photo by Tim Warner/Getty Images)\r\nIt was a disappointing rivalry renewal for Texas A&amp;M.\r\nNo. 3 Texas beat the No. … [+2587 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "Michael Cohen",
+            "title": "Inside Ryan Day's fourth straight loss to Michigan: 'Disappointed. Unexpected. Crushed.' - FOX Sports",
+            "description": "FOX Sports' Michael Cohen details an ugly scene that transpired at Ohio Stadium following Michigan's stunning upset of Ohio State, leaving Buckeyes coach Ryan Day feeling disappointed and in disbelief.",
+            "url": "https://www.foxsports.com/stories/college-football/inside-ryan-day-fourth-straight-loss-michigan-disappointed-unexpected-crushed",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/11/1408/814/1ce38f30-ryan-day-4.jpg?ve=1&tl=1",
+            "publishedAt": "2024-12-01T04:52:57Z",
+            "content": "COLUMBUS, Ohio First came the screaming and writhing figure of linebacker Sonny Styles, his helmet gone and his eyes scorching with pain, careening away from the fracas at midfield as members of Ohio… [+9115 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Anthony Sulla-Heffinger",
+            "title": "WWE Survivor Series WarGames 2024 results: Winners, grades, analysis as OG Bloodline, Rhea Ripley reign supreme - Yahoo Sports",
+            "description": "Survivor Series WarGames took place in Vancouver, British Columbia, Canada on Saturday night. It was a strong card bookended by the titular matches and...",
+            "url": "https://sports.yahoo.com/live/wwe-survivor-series-wargames-2024-results-winners-grades-analysis-as-og-bloodline-rhea-ripley-reign-supreme-180021648.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8uGkHeHR_LmD9eVnLFetaQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/fe7b1560-af92-11ef-9f3f-c285d14efd40",
+            "publishedAt": "2024-12-01T03:48:16Z",
+            "content": "The babyface team of Bianca Belair, Iyo Sky, Naomi, Rhea Ripley and Bayley made their entrance first. Ripley got the largest pop of the five women and had a unique facemask featuring two sets of horn… [+5410 chars]"
+        }
+    ]
+}
