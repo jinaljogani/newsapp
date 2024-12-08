@@ -33,7 +33,7 @@ const News = (props)=> {
         props.setProgress(100);
 
     }
-<<<<<<< HEAD
+
 
     useEffect(() => {
         document.title= `${capitalizeFirstLetter(props.category)}-InfoSphere`;
@@ -44,44 +44,19 @@ const News = (props)=> {
     
    
    
-=======
      handlePrevClick = async ()=>{
         this.setState({page:this.state.page - 1});
         this.updateNews();
-        // console.log("Previous");
-        // let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=&page=${this.state.page - 1}&pageSize=${this.props.pageSize}`;
-        // this.setState({loading:true});
-        // let data = await fetch(url);
-        // let parsedData = await data.json()
-        // console.log(parsedData);  
-        // this.setState({
-        //     page: this.state.page - 1,
-        //     articles: parsedData.articles,
-        //     loading:false
-        // })
+       
     }
     
      handleNextClick = async ()=>{
 
         this.setState({page:this.state.page + 1});
         this.updateNews();
-    //     console.log("Next"); 
-    //     if ((!this.state.page + 1 > Math.ceil(this.state.totalResults/this.props.pageSize))){
-    //     }
-    //     else{
-    //         let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=&page=${this.state.page + 1}&pageSize=${this.props.pageSize}`;
-    //         this.setState({loading:true});
-    //         let data = await fetch(url);
 
-    //         let parsedData = await data.json()
-    //         this.setState({
-    //             page: this.state.page + 1,
-    //             articles: parsedData.articles,
-    //             loading: false
-    //         })
-    // }
     }
->>>>>>> e7e91c42404ca17dd68e67695734f006ee225efc
+
 
 //   
    const fetchMoreData = async () => {
@@ -152,33 +127,4 @@ export default News
 
    
 
-<<<<<<< HEAD
-       
-=======
 
-            // <div className="container my-3">
-            // <h2 className="text-center">InfoSphere - Top Headlines</h2>
-            // <div className="row"> 
-            //         <div className="col-md-4">
-            //             <NewsItem title="myTitle" description="mydesc" imageUrl="https://cdn.24.co.za/files/Cms/General/d/10743/97d776dc91734e98906c0e1b7f3b1afa.jpg" newsUrl="TODO"/>
-            //         </div>
-            //         <div className="col-md-4">
-            //             <NewsItem title="myTitle" description="mydesc"/>
-            //         </div>
-            //         <div className="col-md-4">
-            //             <NewsItem title="myTitle" description="mydesc"/>
-
-            //     {this.state.articles.map((element)=>{
-            //         return <div className="col-md-4" key={element.url}>
-            //             <NewsItem title={element.title?element.title:""} description={element.description?element.description:""} imageUrl={element.urlToImage} newsUrl={element.url}/>
-            //         </div> 
-            //     })} 
-            //     </div> 
-            //     <div className="container d-flex justify-content-between my-3">
-            //     <button disabled={this.state.page<=1} type="button" className="btn btn-dark" onClick={this.handlePrevClick}> &larr; Previous</button>
-            //     <button type="button" className="btn btn-dark" onClick={this.handleNextClick}>Next &rarr;</button>
-            //     </div>
-            // </div>
-            // </div>
-       
->>>>>>> e7e91c42404ca17dd68e67695734f006ee225efc
